@@ -1,0 +1,6 @@
+# VeloFetch Python Dependencies
+# Wzgram MTProto Framework (https://github.com/rjriajul/wzgram.git)
+git+https://github.com/rjriajul/wzgram.git
+tgcrypto
+yt-dlp>=2026.1.1
+aiohttp>=3.9.0

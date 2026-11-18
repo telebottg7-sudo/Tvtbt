@@ -1,0 +1,8 @@
+{
+  "name": "Remix VeloFetch — Telegram Video Downloader \u0026 Uploader",
+  "description": "High-performance multimedia automation control panel with yt-dlp, aria2c, FFmpeg/FFprobe, and Wzgram MTProto Telegram Bot integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
